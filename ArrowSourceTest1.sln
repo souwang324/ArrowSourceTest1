@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowSourceTest1", "ArrowSourceTest1\ArrowSourceTest1.csproj", "{591C4A59-B349-455A-821F-04267B24170D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591C4A59-B349-455A-821F-04267B24170D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591C4A59-B349-455A-821F-04267B24170D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591C4A59-B349-455A-821F-04267B24170D}.Debug|x64.ActiveCfg = Debug|x64
+		{591C4A59-B349-455A-821F-04267B24170D}.Debug|x64.Build.0 = Debug|x64
+		{591C4A59-B349-455A-821F-04267B24170D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591C4A59-B349-455A-821F-04267B24170D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591C4A59-B349-455A-821F-04267B24170D}.Release|x64.ActiveCfg = Release|x64
+		{591C4A59-B349-455A-821F-04267B24170D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F37C2913-2DAE-4340-812C-6AD5386A38A9}
+	EndGlobalSection
+EndGlobal
